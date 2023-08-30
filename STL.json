@@ -1,0 +1,889 @@
+[
+   {
+        "tvg-id": "1Plus1Sport.ua",
+        "tvg-logo": "https://i.imgur.com/tHVc8on.png",
+        "tv-link": "https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8",
+        "group-title": "Sports",
+        "name": "1+1 Спорт (720p) [Not 24/7]"
+    },
+    {
+        "tvg-id": "ASpor.tr",
+        "tvg-logo": "https://i.imgur.com/ZhkZzLf.png",
+        "tv-link": "https://ythls.onrender.com/channel/UCJElRTCNEmLemgirqvsW63Q.m3u8",
+        "group-title": "Sports",
+        "name": "A Spor (1080p) [Not 24/7]"
+    },
+    {
+        "tvg-id": "AbuDhabiSports1.ae",
+        "tvg-logo": "https://i.imgur.com/6BVWk8z.png",
+        "tv-link": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
+        "group-title": "Sports",
+        "name": "Abu Dhabi Sports 1 (1080p)"
+    },
+    {
+        "tvg-id": "AbuDhabiSports2.ae",
+        "tvg-logo": "https://i.imgur.com/4rVm3oZ.png",
+        "tv-link": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8",
+        "group-title": "Sports",
+        "name": "Abu Dhabi Sports 2 (1080p)"
+    },
+    {
+        "tvg-id": "ACCNetwork.us",
+        "tvg-logo": "https://i.imgur.com/TpCkbkT.png",
+        "tv-link": "https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8",
+        "group-title": "Sports",
+        "name": "ACC Network (720p)"
+    },
+    {
+        "tvg-id": "ACISportTV.it",
+        "tvg-logo": "https://i.imgur.com/iLXjMvB.png",
+        "tv-link": "https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8",
+        "group-title": "Sports",
+        "name": "ACI Sport TV (1080p)"
+    },
+    {
+        "tvg-id": "ADOTV.bj",
+        "tvg-logo": "https://i.imgur.com/pxFamLr.png",
+        "tv-link": "https://stream01.adotv-fm.bj/ado-tv-live/index.m3u8",
+        "group-title": "Sports",
+        "name": "ADO TV (720p)"
+    },
+    {
+        "tvg-id": "AdventureSportsTV.us",
+        "tvg-logo": "https://i.imgur.com/9oyc88J.png",
+        "tv-link": "https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275",
+        "group-title": "Sports",
+        "name": "Adventure Sports TV (360p) [Not 24/7]"
+    },
+    {
+        "tvg-id": "AioSport1.ir",
+        "tvg-logo": "https://assets.aionet.ir/channels/100347",
+        "tv-link": "https://af.ayas.ir/hls2/aiosport.m3u8",
+        "group-title": "Sports",
+        "name": "Aio Sport 1 (480p)"
+    },
+    {
+        "tvg-id": "AioSport2.ir",
+        "tvg-logo": "https://assets.aionet.ir/channels/100347",
+        "tv-link": "https://af.ayas.ir/hls2/aiosport2.m3u8",
+        "group-title": "Sports",
+        "name": "Aio Sport 2 (480p) [Not 24/7]"
+    },
+    {
+        "tvg-id": "AlIraqiaSport.iq",
+        "tvg-logo": "https://i.imgur.com/DrrlxTO.png",
+        "tv-link": "https://livestream.almanasa.tv:8130/sport/ch6/ch6_1080.m3u8",
+        "group-title": "Sports",
+        "name": "Al Iraqia Sport (1080p) [Geo-blocked]"
+    },
+    {
+        "tvg-id": "AlfaSport.cy",
+        "tvg-logo": "https://i.imgur.com/vhMPYIW.png",
+        "tv-link": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu",
+        "group-title": "Sports",
+        "name": "Alfa Sport (1080p) [Not 24/7]"
+    },
+    {
+        "tvg-id": "AllSports.br",
+        "tvg-logo": "https://i.imgur.com/wULpnYR.png",
+        "tv-link": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8",
+        "group-title": "Sports",
+        "name": "All Sports (720p)"
+    },
+    {
+        "tvg-id": "AntenaSport.ro",
+        "tvg-logo": "https://i.imgur.com/jp8VX4E.png",
+        "tv-link": "https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8",
+        "group-title": "Sports",
+        "name": "AntenaSport (720p) [Not 24/7]"
+    },
+    {
+        "tvg-id": "ArenaSport3BosniaandHerzegovina.ba",
+        "tvg-logo": "https://i.imgur.com/3r3burN.png",
+        "tv-link": "http://94.250.2.6:7374/play/a02o/index.m3u8",
+        "group-title": "Sports",
+        "name": "Arena Sport 3 BA (1080p)"
+    },
+
+    {
+        "tvg-id": "Arryadia.ma",
+        "tvg-logo": "https://i.imgur.com/XjzK3gZ.png",
+        "group-title": "Sports",
+        "tv-link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8",
+        "name": "Arryadia (360p) [Not 24/7]"
+    },
+    {
+        "tvg-id": "ATG.se",
+        "tvg-logo": "https://i.imgur.com/5CdW62M.png",
+        "group-title": "Sports",
+        "tv-link": "https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8",
+        "name": "ATG (432p)"
+    },
+    {
+        "tvg-id": "BahrainSports1.bh",
+        "tvg-logo": "https://i.imgur.com/fBpLsbC.png",
+        "group-title": "Sports",
+        "tv-link": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+        "name": "Bahrain Sports 1 (720p) [Not 24/7]"
+    },
+    {
+        "tvg-id": "BahrainSports2.bh",
+        "tvg-logo": "https://i.imgur.com/ZkuZmIo.png",
+        "group-title": "Sports",
+        "tv-link": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
+        "name": "Bahrain Sports 2 (720p) [Not 24/7]"
+    },
+    {
+        "tvg-id": "beINSPORTSXTRA.us",
+        "tvg-logo": "https://i.imgur.com/uJosqHh.png",
+        "group-title": "Sports",
+        "tv-link": "https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8",
+        "name": "beIN Sports Xtra (1080p)"
+    },
+    {
+        "tvg-id": "BEKSportsWest.us",
+        "tvg-logo": "https://i.imgur.com/uJb4VOc.png",
+        "group-title": "Sports",
+        "tv-link": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8",
+        "name": "BEK TV Sports West (720p)"
+    },
+    {
+        "tvg-id": "BestCableSportsPeru.pe",
+        "tvg-logo": "https://i.imgur.com/nflqmSC.png",
+        "group-title": "Sports",
+        "tv-link": "https://ca2.inka.net.pe/Best-sport-000000111/index.m3u8",
+        "name": "Best Cable Sports Perú (720p)"
+    },
+    {
+        "tvg-id": "CampusLore.us",
+        "tvg-logo": "https://i.imgur.com/dCXl0rq.png",
+        "group-title": "Sports",
+        "tv-link": "https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8",
+        "name": "CampusLore (720p)"
+    },
+    {
+        "tvg-id": "Canal11.pt",
+        "tvg-logo": "https://i.imgur.com/mbQCGm5.png",
+        "group-title": "Sports",
+        "tv-link": "https://ythls.onrender.com/channel/UCMfEEaNYYX5w6nbvccTCHhg.m3u8",
+        "name": "Canal 11 (1080p) [Not 24/7]"
+    },
+    {
+        "tvg-id": "CanalMotor.no",
+        "tvg-logo": "https://i.imgur.com/BHm0wem.png",
+        "group-title": "Sports",
+        "tv-link": "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8",
+        "name": "Canal Motor (720p)"
+    },
+    {
+        "tvg-id": "CCTV5.cn",
+        "tvg-logo": "https://i.imgur.com/EqURkoF.png",
+        "group-title": "Sports",
+        "tv-link": "http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8",
+        "name": "CCTV-5体育 (1080p)"
+    },
+    {
+        "tvg-id": "CDR.cl",
+        "tvg-logo": "https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png",
+        "group-title": "Sports",
+        "tv-link": "https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8",
+        "name": "CDR (720p)"
+    },
+    {
+        "tvg-id": "CnArDeportes.ar",
+        "tvg-logo": "https://i.imgur.com/07ki2df.png",
+        "group-title": "Sports",
+        "tv-link": "https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8",
+        "name": "CnAr Deportes (1440p)"
+    },
+    {
+        "tvg-id": "ContactoDeportivo.pe",
+        "tvg-logo": "https://i.imgur.com/bBnWaq2.png",
+        "group-title": "Sports",
+        "tv-link": "https://live.obslivestream.com/cdeportivo/index.m3u8",
+        "name": "Contacto Deportivo (720p) [Not 24/7]"
+    },
+    {
+        "tvg-id": "CRTV.cl",
+        "tvg-logo": "https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png",
+        "group-title": "Sports",
+        "tv-link": "https://vdo.panelstreaming.live:3058/stream/play.m3u8",
+        "name": "CRTV (720p)"
+    },
+
+    {
+        "tvg-id": "D13.cl",
+        "tvg-logo": "https://i.imgur.com/CmVZkbS.png",
+        "group-title": "Sports",
+        "tv-link": "https://jireh-2-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8",
+        "name": "D13 (1080p)"
+    },
+    {
+        "tvg-id": "DDSports.in",
+        "tvg-logo": "https://i.imgur.com/J2Ky5OO.png",
+        "group-title": "Sports",
+        "tv-link": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8",
+        "name": "DD Sports (576p)"
+    },
+    {
+        "tvg-id": "DeporTV.ar",
+        "tvg-logo": "https://i.imgur.com/THk9ARS.png",
+        "group-title": "Sports",
+        "tv-link": "https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8",
+        "name": "DeporTV (1080p) [Not 24/7]"
+    },
+    {
+        "tvg-id": "DirecTVSportsArgentina.ar",
+        "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png",
+        "group-title": "Sports",
+        "tv-link": "http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8",
+        "name": "DirecTV Sports (480p) [Geo-blocked]"
+    },
+    {
+        "tvg-id": "DSTV.hu",
+        "tvg-logo": "https://i.imgur.com/xKJoN8L.png",
+        "group-title": "Sports",
+        "tv-link": "http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8",
+        "name": "DSTV (720p)"
+    },
+    {
+        "tvg-id": "DTPlay.bo",
+        "tvg-logo": "https://i.imgur.com/2nVIjho.png",
+        "group-title": "Sports",
+        "tv-link": "https://tv.portalexpress.es:3044/live/dtplaylive.m3u8",
+        "name": "DT Play (Deporte Total) (720p) [Not 24/7]"
+    },
+    {
+        "tvg-id": "DubaiRacing2.ae",
+        "tvg-logo": "https://i.imgur.com/H2TTn7t.png",
+        "group-title": "Sports",
+        "tv-link": "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8",
+        "name": "Dubai Racing 2 (1080p)"
+    },
+    {
+        "tvg-id": "DubaiRacing3.ae",
+        "tvg-logo": "https://i.imgur.com/Vg4fxmc.png",
+        "group-title": "Sports",
+        "tv-link": "https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8",
+        "name": "Dubai Racing 3 (1080p)"
+    },
+    {
+        "tvg-id": "DubaiRacing.ae",
+        "tvg-logo": "https://i.imgur.com/BpcV8jS.png",
+        "group-title": "Sports",
+        "tv-link": "https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8",
+        "name": "Dubai Racing (1080p)"
+    },
+    {
+        "tvg-id": "DubaiSports1.ae",
+        "tvg-logo": "https://i.imgur.com/Poxw8lG.png",
+        "group-title": "Sports",
+        "tv-link": "https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8",
+        "name": "Dubai Sports 1 (1080p)"
+    },
+    {
+        "tvg-id": "DubaiSports2.ae",
+        "tvg-logo": "https://i.imgur.com/PMJ7Zmo.png",
+        "group-title": "Sports",
+        "tv-link": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8",
+        "name": "Dubai Sports 2 (720p)"
+    },
+    {
+        "tvg-id": "DubaiSports3.ae",
+        "tvg-logo": "https://i.imgur.com/U0A8Gex.png",
+        "group-title": "Sports",
+        "tv-link": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8",
+        "name": "Dubai Sports 3 (1080p) [Not 24/7]"
+    },
+    {
+        "tvg-id": "EDGEsport.uk",
+        "tvg-logo": "https://i.imgur.com/oLmgGDG.png",
+        "group-title": "Sports",
+        "tv-link": "https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8",
+        "name": "EDGEsport (1080p)"
+    },
+    {
+        "tvg-id": "ERTSports1.gr",
+        "tvg-logo": "https://i.imgur.com/EsczO2H.png",
+        "group-title": "Sports",
+        "tv-link": "http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/ert_sports1_main/main_1080/chunks.m3u8",
+        "name": "ERT Sports 1 (1080p) [Geo-blocked]"
+    },
+    {
+        "tvg-id": "ERTSports2.gr",
+        "tvg-logo": "https://i.imgur.com/b2SNQPi.png",
+        "group-title": "Sports",
+        "tv-link": "http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/ert_sports2_main/main_1080/chunks.m3u8",
+        "name": "ERT Sports 2 (1080p) [Geo-blocked]"
+    },
+    {
+        "tvg-id": "Esport3.es",
+        "tvg-logo": "https://i.imgur.com/Kbnxu7a.png",
+        "group-title": "Sports",
+        "tv-link": "https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8",
+        "name": "Esport3 (1080p) [Geo-blocked]"
+    },
+    {
+        "tvg-id": "FightNetwork.ca",
+        "tvg-logo": "https://i.imgur.com/vlKPZHR.png",
+        "group-title": "Sports",
+        "tv-link": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8",
+        "name": "Fight Network (1080p)"
+    },
+    {
+        "tvg-id": "FightSports.us",
+        "tvg-logo": "https://i.imgur.com/nV55veq.png",
+        "group-title": "Sports",
+        "tv-link": "https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8",
+        "name": "FIGHT SPORTS (1080p)"
+    },
+    {
+        "tvg-id": "FightBox.nl",
+        "tvg-logo": "https://i.imgur.com/mRsnztA.png",
+        "group-title": "Sports",
+        "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",
+        "tv-link": "http://ott-cdn.ucom.am/s86/index.m3u8",
+        "name": "FightBox HD (480p)"
+    },
+    {
+        "tvg-id": "FightingSpirit.us",
+        "tvg-logo": "https://i.imgur.com/PoI9jpp.png",
+        "group-title": "Sports",
+        "tv-link": "https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8",
+        "name": "Fighting Spirit (720p)"
+    },
+    {
+        "tvg-id": "Fite.us",
+        "tvg-logo": "https://i.imgur.com/4w95NZQ.png",
+        "group-title": "Sports",
+        "tv-link": "https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8",
+        "name": "Fite (720p) [Not 24/7]"
+    },
+    {
+        "tvg-id": "FTF.us",
+        "tvg-logo": "https://i.imgur.com/wCAwYZ7.png",
+        "group-title": "Sports",
+        "tv-link": "https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8",
+        "name": "FTF (720p)"
+    },
+    {
+        "tvg-id": "FTV.bo",
+        "tvg-logo": "https://i.imgur.com/YOr1Oac.png",
+        "group-title": "Sports",
+        "tv-link": "https://master.tucableip.com/ftv/index.m3u8",
+        "name": "FTV (720p)"
+    },
+    {
+        "tvg-id": "FuboSportsNetwork.us",
+        "tvg-logo": "https://i.imgur.com/qFNRJLb.png",
+        "group-title": "Sports",
+        "tv-link": "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8",
+        "name": "fubo Sports Network (720p)"
+    },
+    {
+        "tvg-id": "FUELTV.at",
+        "tvg-logo": "https://i.imgur.com/fm0UmZl.png",
+        "group-title": "Sports",
+        "tv-link": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8",
+        "name": "Fuel TV (1080p)"
+    },
+    {
+        "tvg-id": "GEMFit.ir",
+        "tvg-logo": "https://i.imgur.com/7FQxaII.png",
+        "group-title": "Sports",
+        "tv-link": "https://hd.90minlive.online/live/gemfit/playlist.m3u8",
+        "name": "GEM Fit (480p)"
+    },
+    {
+        "tvg-id": "GloryKickboxing.us",
+        "tvg-logo": "https://i.imgur.com/AQbc1ER.jpg",
+        "group-title": "Sports",
+        "tv-link": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8",
+        "name": "Glory Kickboxing (720p)"
+    },
+    {
+        "tvg-id": "GolfChannelThailand.th",
+        "tvg-logo": "https://i.imgur.com/uz8vM2k.png",
+        "group-title": "Sports",
+        "user-agent": "Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36",
+        "tv-link": "https://smart-tv.livedoomovie.com:4431/02_golfhd_720p/chunklist.m3u8",
+        "name": "Golf Channel Thailand (720p) [Not 24/7]"
+    },
+    {
+        "tvg-id": "grvty.us",
+        "tvg-logo": "https://i.imgur.com/7qPKYVh.png",
+        "group-title": "Sports",
+        "tv-link": "https://d37j5jg7ob6kji.cloudfront.net/index.m3u8",
+        "name": "grvty (1080p)"
+    },
+    {
+        "tvg-id": "HardKnocks.ca",
+        "tvg-logo": "https://i.imgur.com/nt9B6jx.png",
+        "group-title": "Sports",
+        "tv-link": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8",
+        "name": "Hard Knocks (1080p) [Not 24/7]"
+    },
+    {
+        "tvg-id": "IdmanTV.az",
+        "tvg-logo": "https://i.imgur.com/fM9FOrZ.png",
+        "group-title": "Sports",
+        "tv-link": "http://109.205.166.68/server124/idman_az/index.m3u8",
+        "name": "İdman TV (576p)"
+    },
+    {
+        "tvg-id": "IMPACTWrestling.us",
+        "tvg-logo": "https://i.imgur.com/XO8u1V7.png",
+        "group-title": "Sports",
+        "tv-link": "https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8",
+        "name": "IMPACT Wrestling (1080p)"
+    },
+    {
+        "tvg-id": "InsightTV.nl",
+        "tvg-logo": "https://i.imgur.com/7xmaoL0.png",
+        "group-title": "Sports",
+        "tv-link": "https://insighttv-eng-rakuten.amagi.tv/playlist.m3u8",
+        "name": "Insight TV (720p)"
+    },
+    {
+        "tvg-id": "IshushoTV.rw",
+        "tvg-logo": "https://i.ibb.co/BjpLqbN/ISHUSHO-TV-LOGO-orange.png",
+        "group-title": "Culture;Sports",
+        "tv-link": "https://tv.livebcm.com:3425/stream/play.m3u8",
+        "name": "Ishusho TV (720p) [Not 24/7]"
+    },
+
+  {
+    "user_agent": "Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36",
+    "url": "https://smart-tv.livedoomovie.com:4431/02_2sporthd3_720p/chunklist.m3u8"
+  },
+  {
+    "tvg_id": "TrueSports4.th",
+    "tvg_logo": "https://i.imgur.com/WxAQArO.png",
+    "group_title": "Sports",
+    "user_agent": "Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36",
+    "title": "TrueSports 4 HD (720p) [Not 24/7]"
+  },
+  {
+    "user_agent": "Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36",
+    "url": "https://smart-tv.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8"
+  },
+  {
+    "tvg_id": "TrueSports5.th",
+    "tvg_logo": "https://i.imgur.com/XlIQTJR.png",
+    "group_title": "Sports",
+    "user_agent": "Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36",
+    "title": "TrueSports 5 (480p Scaled) (720p) [Not 24/7]"
+  },
+  {
+    "user_agent": "Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36",
+    "url": "https://smart-tv.livedoomovie.com:4431/02_sport5_480p/chunklist.m3u8"
+  },
+  {
+    "tvg_id": "TrueSports7.th",
+    "tvg_logo": "https://i.imgur.com/bW79Nal.png",
+    "group_title": "Sports",
+    "user_agent": "Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36",
+    "title": "TrueSports 7 (480p Scaled) (720p) [Not 24/7]"
+  },
+  {
+    "user_agent": "Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/96.0.3809.25 Safari/537.36",
+    "url": "https://smart-tv.livedoomovie.com:4431/02_sport7_480p/chunklist.m3u8"
+  },
+  {
+    "tvg_id": "TurfMovil.cl",
+    "tvg_logo": "https://i.imgur.com/TwIe4lK.png",
+    "group_title": "Sports",
+    "title": "Turf Móvil (720p)",
+    "url": "https://janus.tvturf.cl/playlist/stream.m3u8"
+  },
+  {
+    "tvg_id": "TurkmenistanSport.tm",
+    "tvg_logo": "https://turkmentv.gov.tm/assets/img/live-imgs/sport.png",
+    "group_title": "Sports",
+    "title": "Türkmenistan Sport (406p) [Not 24/7]",
+    "url": "https://alpha.tv.online.tm/hls/ch004.m3u8"
+  },
+  {
+    "tvg_id": "TV2Sport1.no",
+    "tvg_logo": "https://i.imgur.com/asKHqNZ.png",
+    "group_title": "Sports",
+    "title": "TV 2 Sport 1 (720p)",
+    "url": "https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8"
+  },
+  {
+    "tvg_id": "TVBFinanceSportsInformationChannel.hk",
+    "tvg_logo": "https://i.imgur.com/Fkkp7x7.png",
+    "group_title": "Business;Sports",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246",
+    "title": "TVB Finance and Sport Channel (720p)",
+    "url": "https://cdn.hklive.tv/xxxx/85/index.m3u8"
+  },
+  {
+    "tvg_id": "TVMaticFight.br",
+    "tvg_logo": "https://i.imgur.com/l5PBcKN.png",
+    "group_title": "Sports",
+    "url": "http://cdn.tvmatic.net/fight.m3u8"
+  },
+  {
+    "tvg_id": "TVMax.pa",
+    "tvg_logo": "https://i.imgur.com/XcrkfGh.png",
+    "group_title": "Sports",
+    "url": "https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8"
+  },
+  {
+    "tvg_id": "TVRISport.id",
+    "tvg_logo": "https://i.imgur.com/HSnXywC.png",
+    "group_title": "Sports",
+    "url": "http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8"
+  },
+  {
+    "tvg_id": "TVSBoxing.us",
+    "tvg_logo": "https://i.imgur.com/30ZoF75.png",
+    "group_title": "Sports",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8"
+  },
+  {
+    "tvg_id": "TVSClassicSports.us",
+    "tvg_logo": "https://i.imgur.com/auR0Mi6.png",
+    "group_title": "Sports",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8"
+  },
+  {
+    "tvg_id": "TVSSports.us",
+    "tvg_logo": "https://i.imgur.com/Lwwq62E.png",
+    "group_title": "Sports",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8"
+  },
+  {
+    "tvg_id": "TVSSportsBureau.us",
+    "tvg_logo": "https://i.imgur.com/pXOyNEy.png",
+    "group_title": "Sports",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8"
+  },
+  {
+    "tvg_id": "TVSTurbo.us",
+    "tvg_logo": "https://i.imgur.com/7zYIbU1.png",
+    "group_title": "Sports",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8"
+  },
+  {
+    "tvg_id": "TVSWomenSports.us",
+    "tvg_logo": "https://i.imgur.com/8hC4PfF.png",
+    "group_title": "Sports",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8"
+  },
+  {
+    "tvg_id": "UDTV.es",
+    "tvg_logo": "https://i.ibb.co/GJzmcPz/union-deportiva-las-palmas-tv-en-directo.png",
+    "group_title": "Sports",
+    "url": "https://cdn318.fractalmedia.es/live319/hls/cudtv/high/index.m3u8"
+  },
+  {
+    "tvg_id": "Unbeaten.us",
+    "tvg_logo": "https://i.imgur.com/LmkNt3v.png",
+    "group_title": "Sports",
+    "url": "https://unbeaten-tcl.amagi.tv/playlist.m3u8"
+  },
+  {
+    "tvg_id": "VideolandSports.tw",
+    "tvg_logo": "https://i.imgur.com/9FCjq5E.png",
+    "group_title": "Sports",
+    "url": "http://50.7.220.74:8278/videolandsport/playlist.m3u8?ct=19226&tid=MA6A1192684511926845&tsum=0b7ca9a61e7371df68108a27dc358c68"
+  },
+  {
+    "tvg_id": "VinxTV.es",
+    "tvg_logo": "https://i.imgur.com/6EGV2eo.png",
+    "group_title": "Sports",
+    "url": "https://vinx.radiocast.es:5443/LiveApp/streams/vinxtv.m3u8"
+  },
+  {
+    "tvg_id": "ViXLoMejordeLaLiga.mx",
+    "tvg_logo": "https://i.ibb.co/n3FyYx0/Captura-de-pantalla-2023-04-01-184651.png",
+    "group_title": "Sports",
+    "url": "https://linear-193.frequency.stream/193/hls/master/playlist.m3u8"
+  },
+  {
+    "tvg_id": "W14DKD5.us",
+    "tvg_logo": "https://i.imgur.com/D4mZ8ll.png",
+    "group_title": "Sports",
+    "url": "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8"
+  },
+  {
+    "tvg_id": "WAPADT2.pr",
+    "tvg_logo": "https://i.imgur.com/5WNBFmp.png",
+    "group_title": "Sports",
+    "url": "https://live.field59.com/wapa/wapa2/playlist.m3u8"
+  },
+  {
+    "tvg_id": "WorldofFreesports.de",
+    "tvg_logo": "https://i.imgur.com/lta5Mog.png",
+    "group_title": "Sports",
+    "url": "https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8"
+  },
+  {
+    "tvg_id": "WorldPokerTour.us",
+    "tvg_logo": "https://i.imgur.com/98kLMjj.png",
+    "group_title": "Sports",
+    "url": "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8"
+  },
+
+  {
+    "tvg_id": "AstrahanRuSport.ru",
+    "tvg_logo": "https://i.imgur.com/BKaEtqL.png",
+    "group_title": "Sports",
+    "url": "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"
+  },
+  {
+    "tvg_id": "Belarus5.by",
+    "tvg_logo": "https://i.imgur.com/NJsRFud.png",
+    "group_title": "Sports",
+    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
+  },
+  {
+    "tvg_id": "Belarus5Internet.by",
+    "tvg_logo": "https://i.imgur.com/rzPQ9Iz.png",
+    "group_title": "Sports",
+    "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
+  },
+  {
+    "tvg_id": "Start.ru",
+    "tvg_logo": "https://i.imgur.com/VBqVkno.png",
+    "group_title": "Sports",
+    "url": "https://strm.yandex.ru/kal/start/start0.m3u8"
+  },
+  {
+    "tvg_id": "PlutoTVSportItaly.it",
+    "tvg_logo": "https://i.imgur.com/y22ElOr.png",
+    "group_title": "Sports",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY"
+  },
+  {
+    "tvg_id": "PlutoTVSportsUK.uk",
+    "tvg_logo": "https://i.imgur.com/LW77x7g.png",
+    "group_title": "Sports",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9bb941b95267e225e59c2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=b22749b0-ca0e-4663-8bb3-d83febbbb89f&terminate=false&userId="
+  },
+  {
+    "tvg_id": "PlutoTVSurfGermany.de",
+    "tvg_logo": "https://i.imgur.com/xB6mLeg.png",
+    "group_title": "Sports",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d1ce51dbaca4afdb7abfe5f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=abec40e3-86b9-48b6-981d-dc5eeecc6cf9&terminate=false&userId="
+  },
+  {
+    "tvg_id": "PokerTV.fr",
+    "tvg_logo": "https://i.imgur.com/tArvcvj.png",
+    "group_title": "Sports",
+    "url": "https://hls.pokertvfa.live/hls/stream.m3u8"
+  },
+  {
+    "tvg_id": "Racingcom.au",
+    "tvg_logo": "https://i.imgur.com/Q55HX1O.png",
+    "group_title": "Sports",
+    "url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8"
+  },
+  {
+    "tvg_id": "RealitateaSportiva.ro",
+    "tvg_logo": "https://i.imgur.com/BaEyZto.png",
+    "group_title": "Sports",
+    "url": "https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8"
+  },
+  {
+    "tvg_id": "RealMadridTV.es",
+    "tvg_logo": "https://i.imgur.com/5pMo7dL.png",
+    "group_title": "Sports",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8"
+  },
+  {
+    "tvg_id": "RedBullTV.at",
+    "tvg_logo": "https://i.imgur.com/BcN8B3D.png",
+    "group_title": "Sports",
+    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+  },
+  {
+    "tvg_id": "RTASport.af",
+    "tvg_logo": "https://i.imgur.com/AsqVIp7.png",
+    "group_title": "Sports",
+    "url": "https://hls.rtasport.live/hls/stream.m3u8"
+  },
+  {
+    "tvg_id": "SanMarinoRTVSport.sm",
+    "tvg_logo": "https://i.imgur.com/PGm944g.png",
+    "group_title": "Sports",
+    "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8"
+  },
+  {
+    "tvg_id": "SEOTV5Deportes.bo",
+    "tvg_logo": "https://i.imgur.com/N56B7si.png",
+    "group_title": "Sports",
+    "url": "https://live.seo.tv.bo/live/5SEO.m3u8"
+  },
+  {
+    "tvg_id": "SharjahSports.ae",
+    "tvg_logo": "https://i.imgur.com/IaRaabJ.jpg",
+    "group_title": "Sports",
+    "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8"
+  },
+  {
+    "tvg_id": "SKITV.ch",
+    "tvg_logo": "https://i.imgur.com/S6qgwLG.png",
+    "group_title": "Sports",
+    "url": "https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8"
+  },
+  {
+    "tvg_id": "Sport1.de",
+    "tvg_logo": "https://i.imgur.com/Tsjt7v9.png",
+    "group_title": "Sports",
+    "url": "https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8"
+  },
+  {
+    "tvg_id": "SportenFrance.fr",
+    "tvg_logo": "https://i.imgur.com/1IXQoWq.png",
+    "group_title": "Sports",
+    "url": "https://edge-1192-ch-gv.filmon.com/live/3009.high.stream/playlist.m3u8"
+  },
+  {
+    "tvg_id": "SportItalia.it",
+    "tvg_logo": "https://i.img...
+    "group_title": "Sports",
+    "url": "https://sportitaliatv.origin.mediaset.net/sportitaliatv_prod/mp4:hls/playlist.m3u8"
+  },
+  {
+    "tvg_id": "SportTVPortugal.pt",
+    "tvg_logo": "https://i.imgur.com/Ctm1zqU.png",
+    "group_title": "Sports",
+    "url": "https://5b0e.mediaskyott.com/live/sporttvportugalhd-720/playlist.m3u8"
+  },
+  {
+    "tvg_id": "SuperTennis.it",
+    "tvg_logo": "https://i.imgur.com/j7fbZja.png",
+    "group_title": "Sports",
+    "url": "https://tv.iptvlive.org/stream/supertennishd/playlist.m3u8"
+  },
+  {
+    "tvg_id": "SvenskFotboll.se",
+    "tvg_logo": "https://i.imgur.com/hTPu9Gl.png",
+    "group_title": "Sports",
+    "url": "https://cdn.svenskfotboll.se/superettan.m3u8"
+  },
+  {
+    "tvg_id": "Teledeporte.es",
+    "tvg_logo": "https://i.imgur.com/WwKPXlX.png",
+    "group_title": "Sports",
+    "url": "https://tdp-live.teledeporte.akamaized.net/stream01/playlist.m3u8"
+  },
+  {
+    "tvg_id": "TennisChannel.us",
+    "tvg_logo": "https://i.imgur.com/v4G7mpv.png",
+    "group_title": "Sports",
+    "url": "https://tc-live.adaptive.level3.net/hls/live/2022731/lp/playlist.m3u8"
+  },
+  {
+    "tvg_id": "UFCNext.can",
+    "tvg_logo": "https://i.imgur.com/WELI9pZ.png",
+    "group_title": "Sports",
+    "url": "https://ucet-live.ucnext.com/1/playlist1080p/index.m3u8"
+  },
+  {
+    "tvg_id": "WorldRacing.eu",
+    "tvg_logo": "https://i.imgur.com/b5ONFLK.png",
+    "group_title": "Sports",
+    "url": "https://hlslive-ak.yacast.net/yt/live/yt_channel-1803-bw1689-hls_a/playlist.m3u8"
+  },
+  {
+    "tvg_id": "ESTV.us",
+    "tvg_logo": "https://i.imgur.com/qHNV0f5.png",
+    "group_title": "Sports",
+    "url": "https://estv-rakuten-samsung.amagi.tv/playlist.m3u8"
+  },
+  {
+    "tvg_id": "JOJSport.sk",
+    "tvg_logo": "https://i.imgur.com/KirqaU4.png",
+    "group_title": "Sports",
+    "url": "https://st01-1.iptv.joj.sk/110-tv-pc.m3u8"
+  },
+  {
+    "tvg_id": "JordanSport.jo",
+    "tvg_logo": "https://i.imgur.com/2EmrZPQ.png",
+    "group_title": "Sports",
+    "url": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8"
+  },
+  {
+    "tvg_id": "KTRKSport.kg",
+    "tvg_logo": "https://i.imgur.com/HEiMqV6.png",
+    "group_title": "Sports",
+    "url": "http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8"
+  },
+  {
+    "tvg_id": "KTVSport.kw",
+    "tvg_logo": "https://i.imgur.com/R1hGX1d.png",
+    "group_title": "Sports",
+    "url": "http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.media.gov.kw/LiveTV.aspx?PanChannel=KTVSports"
+  },
+  {
+    "tvg_id": "KTVSportPlus.kw",
+    "tvg_logo": "https://i.imgur.com/l4oX0gf.png",
+    "group_title": "Sports",
+    "url": "http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.media.gov.kw/LiveTV.aspx?PanChannel=KTVSportPlus"
+  },
+  {
+    "tvg_id": "M4Sport.hu",
+    "tvg_logo": "https://i.imgur.com/TQ4uJZk.png",
+    "group_title": "Sports",
+    "url": "http://146.59.85.40:89/m4hd/index.m3u8"
+  },
+  {
+    "tvg_id": "MNetSport.mk",
+    "tvg_logo": "https://i.imgur.com/7k8ar1Z.png",
+    "group_title": "Sports",
+    "url": "http://ares.mnet.mk/hls/mnet-sport.m3u8"
+  },
+  {
+    "tvg_id": "MRTVSports.mm",
+    "tvg_logo": "https://i.imgur.com/cFTR4kC.png",
+    "group_title": "Sports",
+    "url": "http://183.89.246.119:8881/play/a07q/index.m3u8"
+  },
+  {
+    "tvg_id": "MZSports.cr",
+    "tvg_logo": "https://i.imgur.com/pHRhBh6.png",
+    "group_title": "Sports",
+    "url": "https://cloudvideo.servers10.com:8081/8248/index.m3u8"
+  },
+  {
+    "tvg_id": "NTVSpor.tr",
+    "tvg_logo": "https://i.imgur.com/5pvsIsL.png",
+    "group_title": "Sports",
+    "url": "http://46.4.193.238:8484/hls/ntvspor/playlist.m3u8"
+  },
+  {
+    "tvg_id": "ORFSportPlus.at",
+    "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/512px-ORF_Sport%2B.svg.png",
+    "group_title": "Sports",
+    "url": "https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8"
+  },
+  {
+    "tvg_id": "Pac12Insider.us",
+    "tvg_logo": "https://i.imgur.com/736QREy.png",
+    "group_title": "Sports",
+    "url": "https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8"
+  },
+  {
+    "tvg_id": "PBRRidePass.us",
+    "tvg_logo": "https://i.imgur.com/gUxH97E.png",
+    "group_title": "Sports",
+    "url": "https://stitcher-ipv4.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?already_redirected=true&appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=62f4"
+  },
+  {
+    "tvg_id": "PlayersTV.ca",
+    "tvg_logo": "https://i.imgur.com/OC3O87c.png",
+    "group_title": "Sports",
+    "url": "https://playerstv-roku-us.amagi.tv/playlist.m3u8"
+  },
+  {
+    "tvg_id": "PlutoTVQwestTVJazzBeyond.us",
+    "tvg_logo": "https://i.imgur.com/hT6m7aG.png",
+    "group_title": "Sports",
+    "url": "https://siloh.pluto.tv/lilo/production/QwestJazz/master.m3u8"
+  }
+]
+
