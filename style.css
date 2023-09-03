@@ -7,7 +7,7 @@ body, h1, h2, p {
 /* Style the header */
 header {
     background-color: #333;
-    color: #FFF;
+    color: #fff;
     text-align: center;
     padding: 20px;
 }
@@ -24,12 +24,13 @@ nav ul li {
 
 nav a {
     text-decoration: none;
-    color: #FF2323;
+    color: #fff;
 }
 
 /* Style the main content */
 main {
     padding: 20px;
+    min-height: calc(100vh - 100px); /* Calculate the minimum height to push footer to the bottom */
 }
 
 /* Style the footer */
@@ -37,5 +38,8 @@ footer {
     text-align: center;
     padding: 10px;
     background-color: #333;
-    color: #FF2323;
+    color: #fff;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
