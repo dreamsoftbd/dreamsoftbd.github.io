@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR & Barcode Scanner App</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #007acc;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            margin: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .app-icon {
+            text-align: center;
+        }
+        .app-icon img {
+            width: 150px;
+            height: 150px;
+        }
+        .app-name {
+            text-align: center;
+            font-size: 24px;
+        }
+        .description {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 18px;
+        }
+        .features {
+            margin-top: 20px;
+        }
+        .feature {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        .feature-icon {
+            flex: 1;
+        }
+        .feature-text {
+            flex: 4;
+        }
+        .download-button {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .download-button a {
+            background-color: #007acc;
+            color: #fff;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: background-color 0.3s;
+        }
+        .download-button a:hover {
+            background-color: #005aa6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>QR & Barcode Scanner App</h1>
+    </header>
+    <div class="container">
+        <div class="app-icon">
+            <img src="app_icon.png" alt="App Icon">
+        </div>
+        <div class="app-name">Best QR & Barcode Scanner</div>
+        <p class="description">Scan QR codes and barcodes with ease using our feature-rich Android app.</p>
+        <div class="features">
+            <div class="feature">
+                <div class="feature-icon">
+                    <img src="feature1_icon.png" alt="Feature 1 Icon">
+                </div>
+                <div class="feature-text">Fast and accurate scanning of QR codes and barcodes.</div>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">
+                    <img src="feature2_icon.png" alt="Feature 2 Icon">
+                </div>
+                <div class="feature-text">Supports various code formats and data types.</div>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">
+                    <img src="feature3_icon.png" alt="Feature 3 Icon">
+                </div>
+                <div class="feature-text">Scan history and saved scans for future reference.</div>
+            </div>
+        </div>
+        <div class="download-button">
+            <a href="https://play.google.com/store/apps/details?id=yourapp.package.name" target="_blank">Download Now</a>
+        </div>
+    </div>
+</body>
+</html>
